@@ -3,6 +3,8 @@
 
 > This project is to show and test my own JavaScript skills.
 
+> For now this project work's only on laptop or pc because it need the position of the courser
+
 # How project's work ?
 > The rectangle is responsive to curser.
 
