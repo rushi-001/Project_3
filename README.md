@@ -10,4 +10,4 @@
 
 > When user's curser is on left side the rectangle color is red.
 
-> When user's curser is on right side the rectangle color is green.
+> When user's curser is on right side the rectangle color is blue.
