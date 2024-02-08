@@ -10,6 +10,4 @@
 
 > When user's curser is on left side the rectangle color is red.
 
-> When user starts to move on right side of the rectangle, rectangle changes the color to light red.
-
 > When user's curser is on right side the rectangle color is green.
